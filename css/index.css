@@ -398,6 +398,10 @@ img {
   font-family: 'Poppins', sans-serif;
 }
 
+.footer p {
+  color: #ffffff;
+}
+
 .footer .lineas a:link{
   color: #ffffff; 		
 }
